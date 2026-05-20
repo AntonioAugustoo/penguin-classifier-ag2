@@ -221,7 +221,3 @@ __marimo__/
 # Arquivos gerados pelo classificador
 confusion_matrix.png
 decision_tree.png
-
-# CSV com dados reais (não subir dados do dataset)
-data/
-*.csv
