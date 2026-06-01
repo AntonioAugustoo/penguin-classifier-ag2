@@ -29,14 +29,14 @@ Para a classificação, o modelo analisa 6 atributos principais:
 
 ## 👥 Divisão de Tarefas
 
-### 🏗️ Pessoa A — Engenharia de Dados (Passos 1 a 4)
+### 🏗️ Pessoa A(Mateus Augusto De Faria(290) — Engenharia de Dados (Passos 1 a 4)
 
 - Coleta e leitura do dataset bruto (`palmerpenguins.csv`)
 - Mapeamento categórico: conversão de texto para inteiros
 - Limpeza: remoção de valores nulos
 - Reordenação das colunas e exportação do `palmerpenguins_final.csv`
 
-### 🧠 Pessoa B — Ciência de Dados (Passos 5 a 9)
+### 🧠 Pessoa B(Antonio Augusto D'Assumpção(221) — Ciência de Dados (Passos 5 a 9)
 
 - **Passo 5:** Divisão dos dados em 80% treino e 20% teste
 - **Passo 6:** Escolha e instanciação do modelo Decision Tree
