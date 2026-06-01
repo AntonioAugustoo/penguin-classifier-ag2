@@ -29,7 +29,7 @@ Para a classificação, o modelo analisa 6 atributos principais:
 
 ## 👥 Divisão de Tarefas
 
-### 🏗️ Pessoa A(Mateus Augusto De Faria(290) — Engenharia de Dados (Passos 1 a 4)
+### 🏗️ Pessoa A(Mateus Augusto De Faria  Silveira(290) — Engenharia de Dados (Passos 1 a 4)
 
 - Coleta e leitura do dataset bruto (`palmerpenguins.csv`)
 - Mapeamento categórico: conversão de texto para inteiros
